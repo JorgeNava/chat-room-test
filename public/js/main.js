@@ -1,6 +1,6 @@
 $(function () {
   //const socket = io();
-  const socket = io('wss://chat-room-test-production.up.railway.app');
+  const socket = io('wss://uag-chat.up.railway.app');
 
 
     // Obtaining DOM elements from the interface
